@@ -1,5 +1,5 @@
 # 🌐 Live Demo
-[Visit Live Site](https://ke-bean.github.io/COA-Challenge-Solution/)
+[View the Live Demo of the webpage](https://ke-bean.github.io/COA-Challenge-Solution/)
 
 ## ℹ️ Overview
 This project encompasses two main parts:
