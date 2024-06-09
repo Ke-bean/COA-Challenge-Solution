@@ -34,5 +34,13 @@ Example usage:
 const arr = [4, 2, 7, 1, 9, 5];
 const target = 17;
 console.log(hasContiguousSubarrayWithSum(arr, target)); // Output: true
-2. **String Transformation**: Transform a given string based on specific divisibility rules.
-
+```
+2.**String Transformation**: Transform a given string based on different divisibility scenarios.
+```javascript
+const string = "Hamburger";
+console.log(transformString(string)); // Output: "regrubmaH" 
+const string = "Pizza";
+console.log(transformString(string)); // Output: "80 105 122 122 97"
+const string = "Chocolate Chip Cookie";
+console.log(transformString(string)); // Output:  "eikooCpihCetalocohC" 
+```
