@@ -19,5 +19,10 @@
 // }
 
 function hasContiguousSubarrayWithSum(arr, target){
-    
+    let Sum = 0;
+    let startIndex = 0;
+    for (let i = 0; i < arr.length; i++){
+        Sum += arr[i];
+        
+    }
 }
