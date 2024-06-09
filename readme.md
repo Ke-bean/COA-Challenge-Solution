@@ -35,7 +35,11 @@ const arr = [4, 2, 7, 1, 9, 5];
 const target = 17;
 console.log(hasContiguousSubarrayWithSum(arr, target)); // Output: true
 ```
-2.**String Transformation**: Transform a given string based on different divisibility scenarios.
+2.**String Transformation**: Transform a given string based on different divisibility scenarios:
+    ● If the length of the string is divisible by 3, reverse the entire string. 
+    ● If the length of the string is divisible by 5, replace each character with its ASCII code. 
+    ● If the length of the string is divisible by both 3 and 5 (i.e., divisible by 15), perform both operations in the order specified above. 
+.
 ```javascript
 const string = "Hamburger";
 console.log(transformString(string)); // Output: "regrubmaH" 
