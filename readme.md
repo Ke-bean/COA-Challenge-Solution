@@ -22,7 +22,7 @@ The web page showcases an interactive photo gallery with elegant hover effects t
   ```javascript
     const arr = [4, 2, 7, 1, 9, 5];
     const target = 17;
-    console.log(hasContiguousSubarrayWithSum(arr, target)); // result(output): true
+    console.log(hasContiguousSubarrayWithSum(arr, target)); // result(output):True
 2. **String Transformation**: Transform a given string based on different divisibility scenarios.
 
 ## 📋 Setup Instructions
