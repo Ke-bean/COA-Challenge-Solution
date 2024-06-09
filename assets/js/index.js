@@ -1,5 +1,3 @@
-// script.js
-
 document.addEventListener("DOMContentLoaded", function () {
     const galleryCards = document.querySelectorAll(".gallery-container");
     const modal = document.getElementById("image-modal");
@@ -24,4 +22,3 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
   });
-  
